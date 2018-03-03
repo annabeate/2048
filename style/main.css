@@ -346,20 +346,20 @@ hr {
 }
   .tile.tile-16 .tile-inner {
     background: url('../16.jpg');
-    backround-size:100%;
+    background-size:100%;
     color:rgba(0,0,0,0);}
   .tile.tile-32 .tile-inner {
     background: url('../32.jpg');
-    backround-size:100%;
+    background-size:100%;
     color:rgba(0,0,0,0);
      }
   .tile.tile-64 .tile-inner {
     background: url('../64.jpg');
-    backround-size:100%;
+    background-size:100%;
     color:rgba(0,0,0,0); }
   .tile.tile-128 .tile-inner {
     background: url('../128.jpg');
-    backround-size:100%;
+    background-size:100%;
     color:rgba(0,0,0,0); }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
