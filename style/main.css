@@ -3,7 +3,7 @@ html, body {
   margin: 0;
   padding: 0;
   background: #faf8ef;
-  color: #776e65;
+  color: #6a6577;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
 
@@ -340,10 +340,9 @@ hr {
     color:rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-
     background: url('../8.jpg');
- background-size:100%;
-       color:rgba(0,0,0,0);
+    background-size:100%;
+    color:rgba(0,0,0,0);
 }
   .tile.tile-16 .tile-inner {
     background: url('../16.jpg');
